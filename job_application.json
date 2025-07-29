@@ -2,8 +2,7 @@
   {
     "index": "job_application",
     "filter": {
-      "job_post": "685d2c6654a9d3a3a2d4c948",
-      "current_stage.stage": "613772c12b70550025382297"
+      "job_post": "685d2c6654a9d3a3a2d4c948"
     }
   }
 ]
