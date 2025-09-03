@@ -2,7 +2,7 @@
     {
         "index": "job_post",
         "filter": {
-            "_id": "656eea89eaf951beaca747d2"
+            "_id": "62fa3b868adea50efa9881f1"
         }
     }
 ]
