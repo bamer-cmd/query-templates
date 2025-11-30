@@ -1,0 +1,34 @@
+
+[
+  {
+    "index": "job_application",
+    "filter": {
+      "job_post": {"$nin": [
+          { "_id": "673dd859135a1fb69f065b91" },
+          { "_id": "67ac74f7489542a0238110cf" },
+          { "_id": "67ceac8a56bc201628373aad" },
+          { "_id": "685ce1e3dd858dccfb21ed26" },
+          { "_id": "6877333ec1a0a3aebcdf6676" },
+          { "_id": "68b3e15347696d6e0b7eaad5" },
+          { "_id": "68b6981526561db5f621b4ea" },
+          { "_id": "68be6057062fcaec72b48743" },
+          { "_id": "68c24a6dd224ff67238ef77a" },
+          { "_id": "68c25cc70f56656f2bbced19" },
+          { "_id": "68c6b0c9561e077f06ef6e96" },
+          { "_id": "68c7a5b9be384f19c70f0c29" },
+          { "_id": "68ca42045cd46b2bb832b06c" },
+          { "_id": "68dd00d218664f8916df8427" },
+          { "_id": "68e9e9a38b9d813dac4a7f58" },
+          { "_id": "68eb590a5110092e93c4df4f" },
+          { "_id": "68f09daf6d50708c3b8198e3" },
+          { "_id": "68f861273ef41012a2f89ee4" },
+          { "_id": "68f88d14f5f8eaf6b95157db" },
+          { "_id": "68fdbcc1e3abaff994c418e6" },
+          { "_id": "68fe081ee34f5b64004a1448" },
+          { "_id": "691185f6382101cafef66f69" },
+          { "_id": "691dbe480f33fb9c86aa5313" },
+          { "_id": "69230b9e5c40a3048cb38300" }
+      ]}
+    }
+  }
+]
