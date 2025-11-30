@@ -1,0 +1,8 @@
+[
+  {
+    "index": "job_application",
+    "filter": {
+      "job_post.latest_status.status._id": "637625ef8a11cc007852acc4"
+    }
+  }
+]
