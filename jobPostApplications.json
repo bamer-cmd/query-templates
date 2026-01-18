@@ -2,7 +2,7 @@
   {
     "index": "job_application",
     "filter": {
-      "job_post": { "$in": "68c79a6501e4c4b6115f34e2" }
+      "job_post": { "$in": "644f9ff901dc8a279eef9a94" }
     }
   }
 ]
