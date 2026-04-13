@@ -3,7 +3,12 @@
   {
     "index": "job_application",
     "filter": {
-      "_id": {"$in": ["69132f0067ace2184472985e"]
+      "_id": {"$in": ["699d8f83ea2a3c131ef2871b",
+    "69cbd3f42d2bfb7471dd3412",
+    "69cbd4705c5c7985b10b3848",
+    "69cbd4d71eb5c65147024c0b",
+    "6915bb70fc47f3aa4057888f",
+    "69c8701b5c5c7985b1f382f6"]
       }
     }
   }
