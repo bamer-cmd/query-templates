@@ -3,7 +3,7 @@
   {
     "index": "job_application",
     "filter": {
-      "_id": {"$in": ["66b08a58511fa7c51bb983be"]
+      "_id": {"$in": ["69132f0067ace2184472985e"]
       }
     }
   }
