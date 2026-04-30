@@ -1,4 +1,11 @@
 {
-  "job_post": {},
-  "stage_template": "68db7ed3dfadaeee8631c8d2"
+  "job_post": {
+   "_id": {
+      "$in": [
+        "69f1e567e154d62713e1334d",
+        "69f30bec863411965ede0b59"
+      ]
+    }
+  },
+  "stage_template": "6807ac6d0ad8a2df0b567632"
 }
