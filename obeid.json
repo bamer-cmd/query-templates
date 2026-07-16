@@ -1,8 +1,8 @@
 [
   {
-    "index": "job_application",
+    "index": "job_seeker",
     "filter": {
-      "job_post": "68c6b0c9561e077f06ef6e96"
+      "_id": "6a3238fd492e2f60c00e8122"
     }
   }
 ]
