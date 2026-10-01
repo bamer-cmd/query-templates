@@ -1,0 +1,10 @@
+[
+    {
+        "index": "job_application",
+        "filter": { "_id": { "$in": ["6ab50c103cc8d855d6ce8787", "6ab50b4451fe4713a9c40929"] } }
+    },
+    {
+        "index": "job_seeker",
+        "filter": { "_id": { "$in": ["6a0dcaf959c82b86cda33595"] } }
+    }
+]
